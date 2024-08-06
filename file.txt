@@ -1,5 +1,5 @@
 class sample
-public static void name(string args [])
-[
+public static void main(string args [])
+{
 system.out.println("hello world");
-]
+}
